@@ -1,0 +1,67 @@
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\bin\Debug\Diaugeia.exe.config
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\bin\Debug\Diaugeia.exe
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\bin\Debug\Diaugeia.pdb
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\bin\Debug\MsgPack.dll
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\bin\Debug\Newtonsoft.Json.dll
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\bin\Debug\Newtonsoft.Msgpack.dll
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\bin\Debug\MsgPack.xml
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\bin\Debug\Newtonsoft.Json.xml
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\obj\Debug\Diaugeia.csprojResolveAssemblyReference.cache
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\obj\Debug\Diaugeia.Form1.resources
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\obj\Debug\Diaugeia.Properties.Resources.resources
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\obj\Debug\Diaugeia.csproj.GenerateResource.Cache
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\obj\Debug\Diaugeia.exe
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\obj\Debug\Diaugeia.pdb
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\bin\Debug\itextsharp.dll
+c:\users\george\documents\visual studio 2013\Projects\Diaugeia\Diaugeia\bin\Debug\itextsharp.xml
+F:\Technor Engineering LTD\Diaugeia\Diaugeia\bin\Debug\Diaugeia.exe.config
+F:\Technor Engineering LTD\Diaugeia\Diaugeia\obj\Debug\Diaugeia.exe
+F:\Technor Engineering LTD\Diaugeia\Diaugeia\obj\Debug\Diaugeia.pdb
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\bin\Debug\Diaugeia.exe.config
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\obj\Debug\Diaugeia.exe
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\obj\Debug\Diaugeia.pdb
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\bin\Debug\Diaugeia.exe
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\bin\Debug\Diaugeia.pdb
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\bin\Debug\itextsharp.dll
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\bin\Debug\MsgPack.dll
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\bin\Debug\Newtonsoft.Msgpack.dll
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\bin\Debug\itextsharp.xml
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\bin\Debug\MsgPack.xml
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\obj\Debug\Diaugeia.csprojResolveAssemblyReference.cache
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\obj\Debug\Diaugeia.Form1.resources
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\obj\Debug\Diaugeia.Properties.Resources.resources
+C:\Users\George\Desktop\BackUp\Diaugeia\Diaugeia\obj\Debug\Diaugeia.csproj.GenerateResource.Cache
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\bin\Debug\Diaugeia.exe.config
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\obj\Debug\Diaugeia.exe
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\obj\Debug\Diaugeia.pdb
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\bin\Debug\Diaugeia.exe
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\bin\Debug\Diaugeia.pdb
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\bin\Debug\itextsharp.dll
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\bin\Debug\MsgPack.dll
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\bin\Debug\Newtonsoft.Msgpack.dll
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\bin\Debug\itextsharp.xml
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\bin\Debug\MsgPack.xml
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\obj\Debug\Diaugeia.csprojResolveAssemblyReference.cache
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\obj\Debug\Diaugeia.Form1.resources
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\obj\Debug\Diaugeia.Properties.Resources.resources
+C:\Users\George\Documents\Source\Diaugeia\Diaugeia\obj\Debug\Diaugeia.csproj.GenerateResource.Cache
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\bin\Debug\Diaugeia.exe.config
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\obj\Debug\Diaugeia.exe
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\obj\Debug\Diaugeia.pdb
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\bin\Debug\Diaugeia.exe
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\bin\Debug\Diaugeia.pdb
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\bin\Debug\itextsharp.dll
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\bin\Debug\MsgPack.dll
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\bin\Debug\Newtonsoft.Json.dll
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\bin\Debug\Newtonsoft.Msgpack.dll
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\bin\Debug\itextsharp.xml
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\bin\Debug\MsgPack.xml
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\bin\Debug\Newtonsoft.Json.xml
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\obj\Debug\Diaugeia.csprojResolveAssemblyReference.cache
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\obj\Debug\Diaugeia.Form1.resources
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\obj\Debug\Diaugeia.Properties.Resources.resources
+C:\Users\George\Source\Workspaces\Workspace\Gegos_Projects\Diaugeia\Diaugeia\obj\Debug\Diaugeia.csproj.GenerateResource.Cache
